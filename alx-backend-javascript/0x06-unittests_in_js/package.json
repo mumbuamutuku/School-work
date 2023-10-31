@@ -1,0 +1,15 @@
+{
+	"name": "0x06-unittests_in_js",
+	"description": "0x06-unittests_in_js",
+	"scripts": {
+		"test": "mocha test.js"
+	},
+	"devDependencies": {
+		"mocha": ""
+	},
+	"dependencies": {
+		"chai": "^4.3.7",
+		"mocha": "^10.2.0",
+		"sinon": "^15.2.0"
+	}
+}
